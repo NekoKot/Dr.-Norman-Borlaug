@@ -1,0 +1,96 @@
+#main {
+  background-color: #eeeeee;
+  border-radius: 10px;
+  margin: 30px 8px;
+  padding: 15px;
+  display: block;
+}
+ 
+body {
+  text-align: center;
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#title {
+  text-align: center;
+  font-size: 60px;
+}
+
+#text {
+  text-align: center;
+  font-size: 25px
+}
+
+#img-div {
+  display: block;
+  background-color: white;
+  width: 99%;
+  margin: auto;
+  padding: 10px;
+}
+ 
+#image {
+  max-width: 100%;
+  width: 1300px;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info{
+  text-align: center;
+  margin: 15px 0px 5px 0px;
+  font-size: 20px;
+}
+
+#description {
+  text-align: center;
+  font-weight: bold;
+  margin: 50px 0px;
+  font-size: 25px;
+}
+
+#list {
+  max-width: 750px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 20px;
+}
+
+li {
+  margin: 20px;
+}
+
+li:marker {
+  vertical-align: middle;
+}
+
+blockquote {
+  max-width: 750px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+.remark {
+  display: block;
+  font-style: italic;
+  font-size: 20px;
+}
+
+#site {
+  text-align: center;
+  margin: 0px auto 15px auto;
+  font-size: 25px;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+a:active {
+  color: red;
+}
